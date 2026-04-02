@@ -1,4 +1,4 @@
-# **Knight Bot Session Generator**
+# **𝘼𝙘𝙝𝙖𝙠𝙯𝙖𝙞 04 𝙈𝘿 𝙎𝙚𝙨𝙨𝙞𝙤𝙣 𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙤𝙧**
 
 [![Generate Pair Code](https://img.shields.io/badge/Generate%20Pair%20Code-Click%20Here-brightgreen?style=for-the-badge)](https://knight-bot-paircode.onrender.com)
 
